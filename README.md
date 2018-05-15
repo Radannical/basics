@@ -1,2 +1,2 @@
 # basics
-Just for practice
+Just for practice, no fun, just work
